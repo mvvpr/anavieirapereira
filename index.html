@@ -26,7 +26,7 @@ summary::-webkit-details-marker{display:none}
 <body>
 <div style="font-family: 'DM Sans', system-ui, sans-serif; color: #1b1216; background: #faf7f2; font-size: 17px; line-height: 1.6">
 
-<header style="background: #1b1216; color: #f3ece6">
+<header style="position: sticky; top: 0; z-index: 50; background: #1b1216; color: #f3ece6; border-bottom: 1px solid #3a2c31; box-shadow: 0 6px 20px rgba(0,0,0,0.25)">
 <div style="max-width: 1180px; margin: 0 auto; padding: 18px 24px; display: flex; flex-wrap: wrap; gap: 16px; align-items: center; justify-content: space-between">
 <div style="display: flex; flex-direction: column; line-height: 1.15">
 <span style="font-family: 'Cormorant Garamond', Georgia, serif; font-size: 26px; font-weight: 600; letter-spacing: 0.01em">Ana Vieira Pereira</span>
@@ -53,7 +53,7 @@ summary::-webkit-details-marker{display:none}
 </div>
 </div>
 
-<div id="agendar" style="flex: 1 1 400px; min-width: 0; max-width: 480px; background: #faf7f2; color: #1b1216; border-radius: 20px; padding: 32px; box-shadow: 0 24px 60px rgba(0,0,0,0.35)">
+<div id="agendar" style="scroll-margin-top: 104px; flex: 1 1 400px; min-width: 0; max-width: 480px; background: #faf7f2; color: #1b1216; border-radius: 20px; padding: 32px; box-shadow: 0 24px 60px rgba(0,0,0,0.35)">
 <div id="lead-form-wrap">
 <form name="agendamento" method="POST" action="/obrigado.html" data-netlify="true" netlify-honeypot="bot-field" id="lead-form" style="display: flex; flex-direction: column; gap: 16px">
 <input type="hidden" name="form-name" value="agendamento">
