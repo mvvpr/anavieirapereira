@@ -10,7 +10,7 @@ const crypto = require('crypto');
 const GRAPH_VERSION = 'v25.0';
 const OFFERS = {
   'agendamento': { content_name: 'Leitura de Tarot', value: 380 },
-  'inscricao-oficina': { content_name: 'Oficina Tarot e Escrita', value: 350 }
+  'inscricao-oficina': { content_name: 'Oficina Tarot e Escrita', value: 600 }
 };
 
 const sha256 = (s) => crypto.createHash('sha256').update(s).digest('hex');
