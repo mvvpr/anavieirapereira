@@ -68,6 +68,8 @@ fbq('track','PageView');
 <div id="lead-form-wrap">
 <form name="inscricao-oficina" method="POST" action="/oficina/obrigado.html" data-netlify="true" netlify-honeypot="bot-field" id="lead-form" style="display: flex; flex-direction: column; gap: 16px">
 <input type="hidden" name="event_id" value="">
+<input type="hidden" name="fbp" value="">
+<input type="hidden" name="fbc" value="">
 <input type="hidden" name="form-name" value="inscricao-oficina">
 <p hidden><label>Não preencha: <input name="bot-field"></label></p>
 <div style="display: flex; flex-direction: column; gap: 4px">
@@ -213,6 +215,7 @@ fbq('track','PageView');
   form.addEventListener('submit',function(e){
     e.preventDefault();
     var eid='lead-'+Date.now()+'-'+Math.random().toString(36).slice(2,10); form.elements['event_id'].value=eid;
+    var ck=function(n){var m=document.cookie.match('(?:^|; )'+n+'=([^;]*)');return m?decodeURIComponent(m[1]):'';}; var fbc=ck('_fbc'); if(!fbc){var fid=new URLSearchParams(location.search).get('fbclid'); if(fid) fbc='fb.1.'+Date.now()+'.'+fid;} form.elements['fbp'].value=ck('_fbp'); form.elements['fbc'].value=fbc;
     var btn=form.querySelector('button[type="submit"]'); btn.disabled=true; btn.textContent='Enviando...';
     fetch('/',{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:new URLSearchParams(new FormData(form)).toString()})
       .then(function(r){ if(!r.ok) throw new Error(r.status); wrap.hidden=true; ok.hidden=false; if(window.fbq) fbq('track','Lead',{content_name:'Oficina Tarot e Escrita',currency:'BRL',value:350},{eventID:eid}); ok.scrollIntoView({behavior:'smooth',block:'center'}); })
