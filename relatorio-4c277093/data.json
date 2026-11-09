@@ -1,0 +1,146 @@
+{
+ "atualizado_em": "2026-11-09T16:45:50Z",
+ "conta": "GTM 1",
+ "moeda": "EUR",
+ "anuncios": [
+  {
+   "ad_id": "120250756293760075",
+   "anuncio": "AD_V2_3_Criatividade",
+   "campanha": "AVP_LEAD_BR_OFICINA_Tarot-Escrita_December",
+   "status": "ACTIVE",
+   "investimento": 0.02,
+   "impressoes": 3,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "ad_id": "120250756295390075",
+   "anuncio": "AD_V2_5_Educadores",
+   "campanha": "AVP_LEAD_BR_OFICINA_Tarot-Escrita_December",
+   "status": "ACTIVE",
+   "investimento": 0.02,
+   "impressoes": 6,
+   "cliques": 1,
+   "visitas": 1,
+   "leads": 0
+  },
+  {
+   "ad_id": "120250756294660075",
+   "anuncio": "AD_V2_4_Criadores_Conteudo",
+   "campanha": "AVP_LEAD_BR_OFICINA_Tarot-Escrita_December",
+   "status": "ACTIVE",
+   "investimento": 0.09,
+   "impressoes": 12,
+   "cliques": 1,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "ad_id": "120250756293060075",
+   "anuncio": "AD_V2_2_Oraculistas",
+   "campanha": "AVP_LEAD_BR_OFICINA_Tarot-Escrita_December",
+   "status": "ACTIVE",
+   "investimento": 0.07,
+   "impressoes": 12,
+   "cliques": 2,
+   "visitas": 2,
+   "leads": 0
+  },
+  {
+   "ad_id": "120250756292340075",
+   "anuncio": "AD_V2_1_Escritores",
+   "campanha": "AVP_LEAD_BR_OFICINA_Tarot-Escrita_December",
+   "status": "ACTIVE",
+   "investimento": 0.02,
+   "impressoes": 4,
+   "cliques": 1,
+   "visitas": 1,
+   "leads": 0
+  },
+  {
+   "ad_id": "120250747154400075",
+   "anuncio": "AD_3_Criatividade",
+   "campanha": "AVP_LEAD_BR_OFICINA_Tarot-Escrita_December",
+   "status": "ACTIVE",
+   "investimento": 0.04,
+   "impressoes": 12,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "ad_id": "120250747195610075",
+   "anuncio": "AD_5_Educadores",
+   "campanha": "AVP_LEAD_BR_OFICINA_Tarot-Escrita_December",
+   "status": "ACTIVE",
+   "investimento": 0.09,
+   "impressoes": 22,
+   "cliques": 3,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "ad_id": "120250746812990075",
+   "anuncio": "AD_1_Escritores",
+   "campanha": "AVP_LEAD_BR_OFICINA_Tarot-Escrita_December",
+   "status": "ACTIVE",
+   "investimento": 1.17,
+   "impressoes": 298,
+   "cliques": 25,
+   "visitas": 12,
+   "leads": 1
+  },
+  {
+   "ad_id": "120250747181710075",
+   "anuncio": "AD_4_Criadores_Conteudo",
+   "campanha": "AVP_LEAD_BR_OFICINA_Tarot-Escrita_December",
+   "status": "ACTIVE",
+   "investimento": 0.18,
+   "impressoes": 34,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "ad_id": "120250747136200075",
+   "anuncio": "AD_2_Oraculistas",
+   "campanha": "AVP_LEAD_BR_OFICINA_Tarot-Escrita_December",
+   "status": "ACTIVE",
+   "investimento": 0.29,
+   "impressoes": 51,
+   "cliques": 2,
+   "visitas": 2,
+   "leads": 1
+  },
+  {
+   "ad_id": "120250767720940075",
+   "anuncio": "TOP-FUNEL_1",
+   "campanha": "AVP_LEAD_GLOBAL_TAROT",
+   "status": "ACTIVE",
+   "investimento": 0,
+   "impressoes": 0,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
+  }
+ ],
+ "diario": [
+  {
+   "data": "2026-11-08",
+   "investimento": 0,
+   "impressoes": 0,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "data": "2026-11-09",
+   "investimento": 1.99,
+   "impressoes": 454,
+   "cliques": 35,
+   "visitas": 19,
+   "leads": 2
+  }
+ ]
+}
