@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-09T16:45:50Z",
+ "atualizado_em": "2026-11-10T07:35:57Z",
  "conta": "GTM 1",
  "moeda": "EUR",
  "anuncios": [
@@ -41,10 +41,10 @@
    "anuncio": "AD_V2_2_Oraculistas",
    "campanha": "AVP_LEAD_BR_OFICINA_Tarot-Escrita_December",
    "status": "ACTIVE",
-   "investimento": 0.07,
-   "impressoes": 12,
-   "cliques": 2,
-   "visitas": 2,
+   "investimento": 0.22,
+   "impressoes": 34,
+   "cliques": 6,
+   "visitas": 5,
    "leads": 0
   },
   {
@@ -74,10 +74,10 @@
    "anuncio": "AD_5_Educadores",
    "campanha": "AVP_LEAD_BR_OFICINA_Tarot-Escrita_December",
    "status": "ACTIVE",
-   "investimento": 0.09,
-   "impressoes": 22,
-   "cliques": 3,
-   "visitas": 0,
+   "investimento": 1.66,
+   "impressoes": 260,
+   "cliques": 11,
+   "visitas": 10,
    "leads": 0
   },
   {
@@ -85,8 +85,8 @@
    "anuncio": "AD_1_Escritores",
    "campanha": "AVP_LEAD_BR_OFICINA_Tarot-Escrita_December",
    "status": "ACTIVE",
-   "investimento": 1.17,
-   "impressoes": 298,
+   "investimento": 1.18,
+   "impressoes": 299,
    "cliques": 25,
    "visitas": 12,
    "leads": 1
@@ -96,33 +96,33 @@
    "anuncio": "AD_4_Criadores_Conteudo",
    "campanha": "AVP_LEAD_BR_OFICINA_Tarot-Escrita_December",
    "status": "ACTIVE",
-   "investimento": 0.18,
-   "impressoes": 34,
-   "cliques": 0,
-   "visitas": 0,
-   "leads": 0
+   "investimento": 0.26,
+   "impressoes": 46,
+   "cliques": 1,
+   "visitas": 1,
+   "leads": 1
   },
   {
    "ad_id": "120250747136200075",
    "anuncio": "AD_2_Oraculistas",
    "campanha": "AVP_LEAD_BR_OFICINA_Tarot-Escrita_December",
    "status": "ACTIVE",
-   "investimento": 0.29,
-   "impressoes": 51,
-   "cliques": 2,
-   "visitas": 2,
-   "leads": 1
+   "investimento": 1.11,
+   "impressoes": 225,
+   "cliques": 12,
+   "visitas": 11,
+   "leads": 3
   },
   {
    "ad_id": "120250767720940075",
    "anuncio": "TOP-FUNEL_1",
    "campanha": "AVP_LEAD_GLOBAL_TAROT",
    "status": "ACTIVE",
-   "investimento": 0,
-   "impressoes": 0,
-   "cliques": 0,
-   "visitas": 0,
-   "leads": 0
+   "investimento": 3.84,
+   "impressoes": 471,
+   "cliques": 30,
+   "visitas": 25,
+   "leads": 2
   }
  ],
  "diario": [
@@ -136,11 +136,19 @@
   },
   {
    "data": "2026-11-09",
-   "investimento": 1.99,
-   "impressoes": 454,
-   "cliques": 35,
-   "visitas": 19,
-   "leads": 2
+   "investimento": 7.64,
+   "impressoes": 1246,
+   "cliques": 83,
+   "visitas": 62,
+   "leads": 6
+  },
+  {
+   "data": "2026-11-10",
+   "investimento": 0.82,
+   "impressoes": 126,
+   "cliques": 5,
+   "visitas": 4,
+   "leads": 1
   }
  ]
 }
