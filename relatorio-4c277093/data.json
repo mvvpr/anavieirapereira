@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-10T07:35:57Z",
+ "atualizado_em": "2026-11-11T12:10:34Z",
  "conta": "GTM 1",
  "moeda": "EUR",
  "anuncios": [
@@ -15,26 +15,15 @@
    "leads": 0
   },
   {
-   "ad_id": "120250756295390075",
-   "anuncio": "AD_V2_5_Educadores",
-   "campanha": "AVP_LEAD_BR_OFICINA_Tarot-Escrita_December",
-   "status": "ACTIVE",
-   "investimento": 0.02,
-   "impressoes": 6,
-   "cliques": 1,
-   "visitas": 1,
-   "leads": 0
-  },
-  {
    "ad_id": "120250756294660075",
    "anuncio": "AD_V2_4_Criadores_Conteudo",
    "campanha": "AVP_LEAD_BR_OFICINA_Tarot-Escrita_December",
    "status": "ACTIVE",
-   "investimento": 0.09,
-   "impressoes": 12,
-   "cliques": 1,
-   "visitas": 0,
-   "leads": 0
+   "investimento": 9.97,
+   "impressoes": 1188,
+   "cliques": 43,
+   "visitas": 34,
+   "leads": 3
   },
   {
    "ad_id": "120250756293060075",
@@ -67,17 +56,6 @@
    "impressoes": 12,
    "cliques": 0,
    "visitas": 0,
-   "leads": 0
-  },
-  {
-   "ad_id": "120250747195610075",
-   "anuncio": "AD_5_Educadores",
-   "campanha": "AVP_LEAD_BR_OFICINA_Tarot-Escrita_December",
-   "status": "ACTIVE",
-   "investimento": 1.66,
-   "impressoes": 260,
-   "cliques": 11,
-   "visitas": 10,
    "leads": 0
   },
   {
@@ -118,11 +96,33 @@
    "anuncio": "TOP-FUNEL_1",
    "campanha": "AVP_LEAD_GLOBAL_TAROT",
    "status": "ACTIVE",
-   "investimento": 3.84,
-   "impressoes": 471,
-   "cliques": 30,
-   "visitas": 25,
-   "leads": 2
+   "investimento": 9.84,
+   "impressoes": 1206,
+   "cliques": 56,
+   "visitas": 48,
+   "leads": 5
+  },
+  {
+   "ad_id": "120250756295390075",
+   "anuncio": "AD_V2_5_Educadores",
+   "campanha": "AVP_LEAD_BR_OFICINA_Tarot-Escrita_December",
+   "status": "PAUSED",
+   "investimento": 0.39,
+   "impressoes": 66,
+   "cliques": 3,
+   "visitas": 2,
+   "leads": 0
+  },
+  {
+   "ad_id": "120250747195610075",
+   "anuncio": "AD_5_Educadores",
+   "campanha": "AVP_LEAD_BR_OFICINA_Tarot-Escrita_December",
+   "status": "PAUSED",
+   "investimento": 4.83,
+   "impressoes": 596,
+   "cliques": 15,
+   "visitas": 14,
+   "leads": 0
   }
  ],
  "diario": [
@@ -136,19 +136,227 @@
   },
   {
    "data": "2026-11-09",
-   "investimento": 7.64,
-   "impressoes": 1246,
+   "investimento": 7.67,
+   "impressoes": 1249,
    "cliques": 83,
    "visitas": 62,
    "leads": 6
   },
   {
    "data": "2026-11-10",
-   "investimento": 0.82,
-   "impressoes": 126,
-   "cliques": 5,
-   "visitas": 4,
+   "investimento": 17.29,
+   "impressoes": 2093,
+   "cliques": 69,
+   "visitas": 60,
+   "leads": 7
+  },
+  {
+   "data": "2026-11-11",
+   "investimento": 2.92,
+   "impressoes": 337,
+   "cliques": 10,
+   "visitas": 8,
    "leads": 1
+  },
+  {
+   "data": "2026-11-12",
+   "investimento": 0,
+   "impressoes": 0,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "data": "2026-11-13",
+   "investimento": 0,
+   "impressoes": 0,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "data": "2026-11-14",
+   "investimento": 0,
+   "impressoes": 0,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "data": "2026-11-15",
+   "investimento": 0,
+   "impressoes": 0,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "data": "2026-11-16",
+   "investimento": 0,
+   "impressoes": 0,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "data": "2026-11-17",
+   "investimento": 0,
+   "impressoes": 0,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "data": "2026-11-18",
+   "investimento": 0,
+   "impressoes": 0,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "data": "2026-11-19",
+   "investimento": 0,
+   "impressoes": 0,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "data": "2026-11-20",
+   "investimento": 0,
+   "impressoes": 0,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "data": "2026-11-21",
+   "investimento": 0,
+   "impressoes": 0,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "data": "2026-11-22",
+   "investimento": 0,
+   "impressoes": 0,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "data": "2026-11-23",
+   "investimento": 0,
+   "impressoes": 0,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "data": "2026-11-24",
+   "investimento": 0,
+   "impressoes": 0,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "data": "2026-11-25",
+   "investimento": 0,
+   "impressoes": 0,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "data": "2026-11-26",
+   "investimento": 0,
+   "impressoes": 0,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "data": "2026-11-27",
+   "investimento": 0,
+   "impressoes": 0,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "data": "2026-11-28",
+   "investimento": 0,
+   "impressoes": 0,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "data": "2026-11-29",
+   "investimento": 0,
+   "impressoes": 0,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "data": "2026-11-30",
+   "investimento": 0,
+   "impressoes": 0,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "data": "2026-12-01",
+   "investimento": 0,
+   "impressoes": 0,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "data": "2026-12-02",
+   "investimento": 0,
+   "impressoes": 0,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "data": "2026-12-03",
+   "investimento": 0,
+   "impressoes": 0,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "data": "2026-12-04",
+   "investimento": 0,
+   "impressoes": 0,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "data": "2026-12-05",
+   "investimento": 0,
+   "impressoes": 0,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
+  },
+  {
+   "data": "2026-12-06",
+   "investimento": 0,
+   "impressoes": 0,
+   "cliques": 0,
+   "visitas": 0,
+   "leads": 0
   }
  ]
 }
